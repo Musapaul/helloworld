@@ -1,2 +1,4 @@
 # helloworld
-web project
+Hi Humans!
+
+Iam starting to learn some coding using GIthub
